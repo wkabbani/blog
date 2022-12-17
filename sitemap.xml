@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/wkabbani/wkabbani.github.io/about.html</loc>
-    <lastmod>2022-12-17T20:49:43.218Z</lastmod>
+    <lastmod>2022-12-17T20:55:26.811Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/wkabbani/wkabbani.github.io/posts/welcome/index.html</loc>
-    <lastmod>2022-12-17T20:49:43.874Z</lastmod>
+    <lastmod>2022-12-17T20:55:27.435Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/wkabbani/wkabbani.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2022-12-17T20:49:44.166Z</lastmod>
+    <lastmod>2022-12-17T20:55:27.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/wkabbani/wkabbani.github.io/posts/test-blog/index.html</loc>
+    <lastmod>2022-12-17T20:55:28.147Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/wkabbani/wkabbani.github.io/index.html</loc>
-    <lastmod>2022-12-17T20:49:44.487Z</lastmod>
+    <lastmod>2022-12-17T20:55:28.463Z</lastmod>
   </url>
 </urlset>
