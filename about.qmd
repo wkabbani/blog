@@ -1,18 +1,18 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.jpeg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/therealwassimk
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/wassimkabbani/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/wkabbani
 
 ---
 
